@@ -1,7 +1,7 @@
 ## 📋 Index
 
 - [About this project](#-About-this-project)
-- [technologies used](#-technologies-used)
+- [Technologies](#-Technologies)
 - [Usage](#-Usage)
 - [Preview](#-Preview)
 
