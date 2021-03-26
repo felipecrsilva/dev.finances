@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Sobre
+## 📖 About this project
 
 Project developed by **[@Rocketseat](https://github.com/Rocketseat)**, in the **[Discover](https://app.rocketseat.com.br/discover)** course.
 
